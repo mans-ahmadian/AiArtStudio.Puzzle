@@ -1,0 +1,113 @@
+# created by chatgpt
+# Home
+Toothbrush
+Toothpaste
+Towel
+Shampoo
+Soap
+Comb
+Hairbrush
+Mirror
+Razor
+Toilet paper
+Shower curtain
+Bed
+Pillow
+Blanket
+Mattress
+Alarm clock
+Lamp
+Television
+Remote control
+Sofa
+Chair
+Table
+Refrigerator
+Microwave
+Stove 
+Cooker
+Oven
+Kettle
+Toaster
+Blender
+Coffee maker
+Dish rack
+Dishes 
+Plates
+Bowls
+Cups 
+Mugs
+Glasses
+Spoons
+Forks
+Knives
+Cooking pots
+Frying pan
+Trash can
+Broom
+Mop
+Vacuum cleaner
+Laundry basket
+Washing machine
+Dryer
+Iron
+Ironing board
+Clothes hanger
+Light bulb
+# ####################
+# work
+Laptop
+Desktop computer
+Monitor
+Mouse
+Keyboard
+Printer
+Scanner
+USB drive
+Charging cable
+Power strip
+Desk
+Office chair
+Notebook
+Pen
+Pencil
+Eraser
+Highlighter
+Stapler
+Paper clips
+Tape dispenser
+Sticky notes
+Whiteboard
+Whiteboard marker
+Calculator
+File folder
+Envelopes
+Ruler
+Scissors
+Calendar
+Clock
+# ####################
+# Other Common Places & On-the-Go Items
+Smartphone
+Wallet
+Keys
+Sunglasses
+Headphones 
+Earbuds
+Water bottle
+Backpack 
+Bag
+Umbrella
+Face mask
+Hand sanitizer
+Tissue pack
+Car
+Bike
+Helmet
+Flashlight
+First aid kit
+Book
+Pen drive
+ID card
+Charger 
+Power bank

@@ -1,0 +1,260 @@
+# ##########
+# France
+Paris (France)
+
+# ##########
+#  United States
+New York (United States)
+San Francisco (United States)
+Los Angeles (United States)
+Miami (United States)
+Seattle (United States)
+Boston (United States)
+Austin (United States)
+Chicago (United States)
+San Antonio (United States)
+Las Vegas (United States)
+Niagara Falls (United States)
+
+# ##########
+#  Japan
+Tokyo (Japan)
+Kyoto (Japan)
+Osaka (Japan)
+
+# ##########
+#  United Kingdom
+London (United Kingdom)
+Edinburgh (United Kingdom)
+Oxford (United Kingdom)
+Glasgow (United Kingdom)
+
+# ##########
+#  Italy
+Rome (Italy)
+Milan (Italy)
+Florence (Italy)
+Verona (Italy)
+Bologna (Italy)
+
+# ##########
+#  Turkey
+Istanbul (Turkey)
+Antalya (Turkey)
+
+# ##########
+#  China
+Beijing (China)
+Hong Kong (China)
+Shanghai (China)
+Nanjing (China)
+
+# ##########
+#  Brazil
+Rio de Janeiro (Brazil)
+
+# ##########
+#  Australia
+Sydney (Australia)
+Melbourne (Australia)
+Brisbane (Australia)
+
+# ##########
+#  United Arab Emirates
+Dubai (United Arab Emirates)
+Abu Dhabi (United Arab Emirates)
+
+# ##########
+#  Spain
+Barcelona (Spain)
+Madrid (Spain)
+Valencia (Spain)
+Granada (Spain)
+Palma de Mallorca (Spain)
+
+# ##########
+#  South Korea
+Seoul (South Korea)
+
+# ##########
+#  Germany
+Berlin (Germany)
+Munich (Germany)
+
+# ##########
+#  Egypt
+Cairo (Egypt)
+
+# ##########
+#  India
+Mumbai (India)
+New Delhi (India)
+
+# ##########
+#  Russia
+Moscow (Russia)
+St. Petersburg (Russia)
+
+# ##########
+#  Argentina
+Buenos Aires (Argentina)
+
+# ##########
+#  South Africa
+Cape Town (South Africa)
+Johannesburg (South Africa)
+
+# ##########
+#  Netherlands
+Amsterdam (Netherlands)
+Rotterdam (Netherlands)
+
+# ##########
+#  Mexico
+Mexico City (Mexico)
+
+# ##########
+#  Czech Republic
+Prague (Czech Republic)
+
+# ##########
+#  Thailand
+Bangkok (Thailand)
+
+# ##########
+#  Canada
+Toronto (Canada)
+Montreal (Canada)
+Vancouver (Canada)
+Niagara Falls (Canada)
+Quebec City (Canada)
+
+# ##########
+#  Greece
+Athens (Greece)
+
+# ##########
+#  Singapore
+Singapore (Singapore)
+
+# ##########
+#  Ireland
+Dublin (Ireland)
+
+# ##########
+#  Austria
+Vienna (Austria)
+Salzburg (Austria)
+
+# ##########
+#  Hungary
+Budapest (Hungary)
+
+# ##########
+#  Malaysia
+Kuala Lumpur (Malaysia)
+
+# ##########
+#  Poland
+Warsaw (Poland)
+
+# ##########
+#  Israel
+Tel Aviv (Israel)
+
+# ##########
+#  Belgium
+Brussels (Belgium)
+Antwerp (Belgium)
+
+# ##########
+#  Finland
+Helsinki (Finland)
+
+# ##########
+#  Sweden
+Stockholm (Sweden)
+
+# ##########
+#  Denmark
+Copenhagen (Denmark)
+
+# ##########
+#  Norway
+Oslo (Norway)
+
+# ##########
+#  Switzerland
+Zurich (Switzerland)
+Geneva (Switzerland)
+
+# ##########
+#  Chile
+Santiago (Chile)
+
+# ##########
+#  Morocco
+Marrakech (Morocco)
+Casablanca (Morocco)
+
+# ##########
+#  New Zealand
+Auckland (New Zealand)
+
+# ##########
+#  Portugal
+Lisbon (Portugal)
+Porto (Portugal)
+
+# ##########
+#  Peru
+Lima (Peru)
+
+# ##########
+#  Qatar
+Doha (Qatar)
+
+# ##########
+#  Colombia
+Bogota (Colombia)
+
+# ##########
+#  Venezuela
+Caracas (Venezuela)
+
+# ##########
+#  Lebanon
+Beirut (Lebanon)
+
+# ##########
+#  Monaco
+Monaco (Monaco)
+
+E# ##########
+#  stonia
+Tallinn (Estonia)
+
+# ##########
+#  France
+Lyon (France)
+Strasbourg (France)
+
+# ##########
+#  Slovenia
+Ljubljana (Slovenia)
+
+# ##########
+#  Croatia
+Split (Croatia)
+
+# ##########
+#  Vietnam
+Ho Chi Minh City (Vietnam)
+
+# ##########
+#  Iran
+Tehran (Iran)
+Esfahan (Iran)
+Shiraz (Iran)
+Kerman (Iran)
+

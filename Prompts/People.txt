@@ -70,7 +70,7 @@ Karl Marx
 Friedrich Nietzsche
 Albert Camus
 Agatha Christie
-Beyoncé
+Beyonce
 Taylor Swift
 Rihanna
 Lady Gaga
@@ -79,7 +79,7 @@ Bob Marley
 The Beatles
 Frank Sinatra
 Andy Warhol
-Salvador Dalí
+Salvador Dali
 Hillary Clinton
 Angela Merkel
 Elon Musk
@@ -96,3 +96,7 @@ Keanu Reeves
 Jackie Kennedy
 Anne Frank
 Malala Yousafzai
+# ############
+# Iran
+Hafez
+Saadi shirazi
