@@ -10,8 +10,8 @@ Los Angeles (United States),0
 Miami (United States),0
 Seattle (United States),0
 Boston (United States),0
-Austin (United States),0
-Chicago (United States),0
+Austin (United States),1
+Chicago (United States),1
 San Antonio (United States),0
 Las Vegas (United States),0
 Niagara Falls (United States),0
@@ -22,20 +22,20 @@ Kyoto (Japan),0
 Osaka (Japan),0
 # ##########,0
 #  United Kingdom,0
-London (United Kingdom),0
-Edinburgh (United Kingdom),0
+London (United Kingdom),1
+Edinburgh (United Kingdom),1
 Oxford (United Kingdom),0
 Glasgow (United Kingdom),0
 # ##########,0
 #  Italy,0
 Rome (Italy),0
-Milan (Italy),0
+Milan (Italy),1
 Florence (Italy),0
-Verona (Italy),0
-Bologna (Italy),0
+Verona (Italy),1
+Bologna (Italy),1
 # ##########,0
 #  Turkey,0
-Istanbul (Turkey),0
+Istanbul (Turkey),1
 Antalya (Turkey),0
 # ##########,0
 #  China,0
@@ -48,7 +48,7 @@ Nanjing (China),0
 Rio de Janeiro (Brazil),0
 # ##########,0
 #  Australia,0
-Sydney (Australia),0
+Sydney (Australia),1
 Melbourne (Australia),0
 Brisbane (Australia),0
 # ##########,0
@@ -79,13 +79,13 @@ New Delhi (India),0
 # ##########,0
 #  Russia,0
 Moscow (Russia),0
-St. Petersburg (Russia),0
+St. Petersburg (Russia),1
 # ##########,0
 #  Argentina,0
 Buenos Aires (Argentina),0
 # ##########,0
 #  South Africa,0
-Cape Town (South Africa),0
+Cape Town (South Africa),1
 Johannesburg (South Africa),0
 # ##########,0
 #  Netherlands,0
@@ -93,26 +93,26 @@ Amsterdam (Netherlands),0
 Rotterdam (Netherlands),0
 # ##########,0
 #  Mexico,0
-Mexico City (Mexico),0
+Mexico City (Mexico),1
 # ##########,0
 #  Czech Republic,0
 Prague (Czech Republic),0
 # ##########,0
 #  Thailand,0
-Bangkok (Thailand),0
+Bangkok (Thailand),1
 # ##########,0
 #  Canada,0
 Toronto (Canada),0
 Montreal (Canada),0
 Vancouver (Canada),0
-Niagara Falls (Canada),0
-Quebec City (Canada),0
+Niagara Falls (Canada),1
+Quebec City (Canada),1
 # ##########,0
 #  Greece,0
 Athens (Greece),1
 # ##########,0
 #  Singapore,0
-Singapore (Singapore),0
+Singapore (Singapore),1
 # ##########,0
 #  Ireland,0
 Dublin (Ireland),0
@@ -122,7 +122,7 @@ Vienna (Austria),0
 Salzburg (Austria),0
 # ##########,0
 #  Hungary,0
-Budapest (Hungary),0
+Budapest (Hungary),1
 # ##########,0
 #  Malaysia,0
 Kuala Lumpur (Malaysia),0
@@ -131,20 +131,20 @@ Kuala Lumpur (Malaysia),0
 Warsaw (Poland),0
 # ##########,0
 #  Israel,0
-Tel Aviv (Israel),0
+Tel Aviv (Israel),1
 # ##########,0
 #  Belgium,0
 Brussels (Belgium),0
-Antwerp (Belgium),0
+Antwerp (Belgium),1
 # ##########,0
 #  Finland,0
-Helsinki (Finland),0
+Helsinki (Finland),1
 # ##########,0
 #  Sweden,0
 Stockholm (Sweden),0
 # ##########,0
 #  Denmark,0
-Copenhagen (Denmark),0
+Copenhagen (Denmark),1
 # ##########,0
 #  Norway,0
 Oslo (Norway),0
@@ -164,11 +164,11 @@ Casablanca (Morocco),0
 Auckland (New Zealand),0
 # ##########,0
 #  Portugal,0
-Lisbon (Portugal),0
+Lisbon (Portugal),1
 Porto (Portugal),1
 # ##########,0
 #  Peru,0
-Lima (Peru),0
+Lima (Peru),1
 # ##########,0
 #  Qatar,0
 Doha (Qatar),0

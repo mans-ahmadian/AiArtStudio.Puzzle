@@ -2,16 +2,16 @@ subject,count
 Jesus Christ,0
 Buddha,0
 Confucius,0
-Alexander the Great,0
+Alexander the Great,1
 Julius Caesar,0
-Cleopatra,0
-Socrates,0
+Cleopatra,1
+Socrates,1
 Leonardo da Vinci,0
 William Shakespeare,0
 Napoleon Bonaparte,1
 George Washington,0
 Abraham Lincoln,0
-Queen Victoria,0
+Queen Victoria,1
 Charles Darwin,0
 Isaac Newton,0
 Albert Einstein,0
@@ -19,10 +19,10 @@ Winston Churchill,0
 Adolf Hitler,0
 Joseph Stalin,0
 Mahatma Gandhi,0
-Martin Luther King Jr.,0
+Martin Luther King Jr.,1
 Nelson Mandela,0
 Mother Teresa,0
-Pablo Picasso,0
+Pablo Picasso,1
 Ludwig van Beethoven,0
 Wolfgang Amadeus Mozart,1
 Elvis Presley,0
@@ -30,17 +30,17 @@ Marilyn Monroe,1
 Michael Jackson,0
 Oprah Winfrey,0
 Madonna,0
-Steve Jobs,0
+Steve Jobs,1
 Bill Gates,0
-Barack Obama,0
-Donald Trump,0
-Vladimir Putin,0
+Barack Obama,1
+Donald Trump,1
+Vladimir Putin,1
 Xi Jinping,0
 Queen Elizabeth II,0
-Princess Diana,0
-Pope Francis,0
+Princess Diana,1
+Pope Francis,1
 Dalai Lama,0
-Usain Bolt,0
+Usain Bolt,1
 Muhammad Ali,0
 Pele,0
 Diego Maradona,0
@@ -49,9 +49,9 @@ LeBron James,0
 Cristiano Ronaldo,0
 Lionel Messi,0
 Serena Williams,0
-Tiger Woods,0
-Roger Federer,0
-David Beckham,0
+Tiger Woods,1
+Roger Federer,1
+David Beckham,1
 Bruce Lee,0
 Jackie Chan,1
 Clint Eastwood,0
@@ -63,37 +63,37 @@ Stephen King,0
 Mark Twain,0
 Ernest Hemingway,0
 Vincent van Gogh,0
-Rembrandt,0
+Rembrandt,1
 Galileo Galilei,0
 Marie Curie,0
 Sigmund Freud,0
 Karl Marx,0
 Friedrich Nietzsche,1
 Albert Camus,0
-Agatha Christie,0
+Agatha Christie,1
 Beyonce,0
 Taylor Swift,1
 Rihanna,0
 Lady Gaga,1
 Eminem,0
-Bob Marley,0
-The Beatles,0
+Bob Marley,1
+The Beatles,1
 Frank Sinatra,0
 Salvador Dali,0
 Hillary Clinton,0
-Angela Merkel,0
-Elon Musk,0
+Angela Merkel,1
+Elon Musk,1
 Jeff Bezos,0
 Mark Zuckerberg,0
 Kim Kardashian,0
 "Dwayne ""The Rock"" Johnson",0
 Tom Cruise,0
 Brad Pitt,0
-Johnny Depp,0
+Johnny Depp,1
 Will Smith,0
-George Clooney,0
+George Clooney,1
 Keanu Reeves,0
-Jackie Kennedy,0
+Jackie Kennedy,1
 Anne Frank,0
 Malala Yousafzai,1
 # ############,0
