@@ -206,5 +206,6 @@ __marimo__/
 # Local generated files
 generated/
 *.mp4
+testFiles/
 # ignore token.json
 token.json
